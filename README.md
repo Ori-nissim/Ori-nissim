@@ -2,7 +2,7 @@
 - Feel free to use any code you see here!
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me :
-https://www.linkedin.com/in/ori-nissim-550969218/
+https://www.linkedin.com/in/ori-nissim-/
 
 <!---
 Ori-nissim/Ori-nissim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
