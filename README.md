@@ -21,12 +21,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ori-nissim/ori-nissim/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<br>
 
 <div align="center">
   <picture>
